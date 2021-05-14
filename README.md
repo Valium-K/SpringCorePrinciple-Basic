@@ -1,7 +1,7 @@
 SpringCorePrinciple-Basic
 ==================
 
-# 객체지향 설계와 스프링
+### 객체지향 설계와 스프링
 * SOLID 원칙을  지키며 간단 예제를 POJO로 짜보고 Spring으로도 짜본다.    
 
 
