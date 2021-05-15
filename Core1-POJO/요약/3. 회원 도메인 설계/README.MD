@@ -11,5 +11,8 @@
 1. 회원 도메인의 협력관계를 UML로 작성
 2. 클래스 다이어그램의 동적(구현체) 객체를 결정을 위해   
    객체 다이어그램도 추가작성
+      > 클래스 다이어그램: 정적 다이어그램  
+      객체 다이어그램: 동적 다이어그램
+   
 
-회원 다이어그램: [도메인 설계](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/lecture/55335?tab=curriculum)
+최종 회원 다이어그램: [도메인 설계](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/lecture/55335?tab=curriculum)
