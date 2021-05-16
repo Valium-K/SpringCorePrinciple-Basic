@@ -35,4 +35,6 @@ public class AppConfig {
 
 * 의존관계에 대한 고민은 `AppConfig`가 맡고 `*Service 클래스`들은 수행에만 집중하면 된다.
 
-[설명](https://www.inflearn.com/course/스프링-핵심-원리-기본편/lecture/55344)
+[기존 서비스의 문제점](https://www.inflearn.com/course/스프링-핵심-원리-기본편/lecture/55344)   
+[변경 후의 구성](https://www.inflearn.com/course/스프링-핵심-원리-기본편/lecture/55346)
+
