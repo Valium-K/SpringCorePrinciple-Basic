@@ -2,4 +2,4 @@
 ==========
 [ApplicationContextBasicFindTest](src/test/java/hello/core2/beanfind/ApplicationContextBasicFIndTest.java)  
 [ApplicationContextInfoTest](src/test/java/hello/core2/beanfind/ApplicationContextInfoTest.java)  
-[ApplicationContextBasicFIndTest](Core1-SPRING/src/test/java/hello/core2/beanfind/ApplicationContextSameBeanFindTest.java)
+[ApplicationContextBasicFIndTest](/Core1-SPRING/src/test/java/hello/core2/beanfind/ApplicationContextSameBeanFindTest.java)
