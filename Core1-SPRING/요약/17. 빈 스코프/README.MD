@@ -30,3 +30,16 @@ Dependency Lookup 기능의 무언가가 필요하다.
   * `javax.inject:javax.inject:1` 을 그레이들에 추가해 사용가능하다
 
 [SingletonWithPrototype](Core1-SPRING/src/test/java/hello/core2/scope/SingletonWithPrototype1.java)
+
+## Request 스코프
+HTTP 요청-응답 의 생명주기를 스코프로 가진다.
+
+### Request 스코프와 Provider
+* 코드의 주석참조.
+  
+### 프록시
+```@Scope(value = "request", proxyMode = 여러ENUM)```
+* 일반적으로 프록시를 사용해 빈 생성 시 목 오브젝트를 DI해 실제 요청시 진짜 빈을 요청한다.
+* 프록시는 싱글톤처럼 사용된다.
+* 실제 의존 주입도 목 오브젝트가 주입된다.
+* 싱글톤 처럼 보임 & 다형성 때문에 무분별 사용시 오히려 유지보수가 어려워질 수 있다.
